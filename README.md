@@ -5,6 +5,6 @@
 (function repeat() {
 eat();
 sleep();
-love_yourself();
+code();
 repeat();
 })();
